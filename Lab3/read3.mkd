@@ -23,15 +23,15 @@
 
 Τα αποτελέσματα που εκτυπώθηκαν από την προσομοίωση με τον McPAT Xeon έίναι :
 
-*Τεχνολογία Τρανζίστορ : 65nm
+* Τεχνολογία Τρανζίστορ : 65nm
 
-*Κατανάλωση Ισχύος Επεξεργαστή
-    *Peak Power : 134.938 W
-    *Total Leakage : 36.8319 W
-        *Subthreshold Leakage : 35.1632 W
-        *Gate Leakage : 1.66871 W
-    *Peak Dynamic : 98.1063 W
-        *Runtime Dynamic : 72.9199 W
+* Κατανάλωση Ισχύος Επεξεργαστή
+    * Peak Power : 134.938 W
+    * Total Leakage : 36.8319 W
+        * Subthreshold Leakage : 35.1632 W
+        * Gate Leakage : 1.66871 W
+    * Peak Dynamic : 98.1063 W
+        * Runtime Dynamic : 72.9199 W
 
 #### Power Dissipation
 
